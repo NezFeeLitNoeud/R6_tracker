@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    border: 1px green solid;
+    width: 100%;
+}
+
+#title {
+    border: 1px red solid;
+}
+
+#container_main {
+    border: 1px blue solid;
+}
+
+#display_main {
+    border: 1px orange solid;
+}
